@@ -1,0 +1,6 @@
+### RUST_SNAKE CONFIG FILE ###
+### DO NOT PUT AN EQUALS SIGN IN ANY OTHER LINES ###
+### MAX FIELD SIZE IS 256 ###
+row_size=10
+col_size=10
+refresh_time_ms=300
